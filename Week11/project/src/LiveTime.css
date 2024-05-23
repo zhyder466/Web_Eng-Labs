@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f4f4f4;
+}
+
+.live-time-container {
+  text-align: center;
+  border: 2px solid #007bff;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.live-time-heading {
+  font-size: 24px;
+  color: #007bff;
+}
+
+.live-time {
+  font-size: 36px;
+  color: #333;
+  margin-top: 10px;
+}
